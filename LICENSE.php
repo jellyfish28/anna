@@ -9,8 +9,4 @@
 	
 	sdfdsfgsdfgsdfgsdfgsdfg
 	sdfdsfgsdfgsdfgsdfgsdfg
-авав
-
-вававава
-
-вавава
+тест
